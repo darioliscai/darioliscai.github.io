@@ -3,4 +3,5 @@ author: Dario Liscai
 profile_image: /assets/profile.jpg
 description: Data Science | Neuroscience | Nature 
 linkedin: https://www.linkedin.com/in/dario-liscai-99i/
-theme: jekyll-theme-minimal
+sass:
+  style: compressed
