@@ -4,6 +4,22 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    font-size: medium;
     color: rgb(0, 0, 0); /* Optional: if your text needs more contrast */
   }
+
+h1 {
+font-size: 36px;
+font-weight: bold;
+}
+
+h2 {
+font-size: 28px;
+}
+
+p {
+font-size: 18px;
+line-height: 1.6;
+}
+  
   
