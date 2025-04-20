@@ -1,0 +1,9 @@
+body {
+    background-image: url('assets/neuron_activity.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: rgb(255, 255, 255); /* Optional: if your text needs more contrast */
+  }
+  

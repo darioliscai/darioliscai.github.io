@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="assets/style.css">
+
 # Dario Liscai
 
-Prova di testo sul sito
+Hi! Welcome
