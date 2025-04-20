@@ -4,6 +4,6 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    color: rgb(255, 255, 255); /* Optional: if your text needs more contrast */
+    color: rgb(0, 0, 0); /* Optional: if your text needs more contrast */
   }
   
